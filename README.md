@@ -13,7 +13,7 @@ Salifort’s senior leadership team is concerned about how many employees are le
 The fictional company's data is HR_capstone_dataset.csv, which can be found on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) and is under the [license](https://creativecommons.org/publicdomain/zero/1.0/). It contains approximately 15k employees' self-reported information and 10 features per employee. The features include employee satisfaction, last performance review, number of projects the employee contributes to, average number of hours worked per month, tenure at the company, whether the employee had a work accident, whether the employee left the company, whether the employee was promoted in the last 5 years, department, and salary.
 ## Modeling and Evaluation
 In this project, logistic regression, decision tree, and random forest models are constructed and compared through 4 metrics: precision, recall, F1 score, accuracy, and ROC AUC. The champion model is the random forest model with tuned hyperparameters. The figure below displays the confusion matrix of the random forest model. The label `0` represents the employee will stay, while the label `1` represents the employee will leave.
-![Confusion Matrix](./images,Random_forest_confusion_matrix.png)
+![Confusion Matrix](images.Random_forest_confusion_matrix.png)
 The random forest model is considered the most robust since it predicts significantly fewer false positives and false negatives.
 The following figure displays the top 10 feature importances in the random forest model. The five variables `satisfaction_level`, `number_project`, `last_evaluation`, `tenure`, and `average_monthly_hours` are considered the most relevant features in predicting employee turnover.
-![Feature Importances](./images.Random_forest_importance_top10.png)
+![Feature Importances](images.Random_forest_importance_top10.png)
