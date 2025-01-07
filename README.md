@@ -5,6 +5,7 @@ The best model for this analysis was a random forest model with tuned hyperparam
 | Model Name | Precision | Recall | F1 Score | Accuracy | ROC AUC |
 | ---------- | --------- | ------ | -------- | -------- | --- |
 | Random Forest (cross-validated) | 96.4% | 92.0% | 94.1% | 98.0% | 95.6% |
+
 The most relevant variables in the random forest model are `satisfaction_level`, `number_project`, `last_evaluation`, `tenure`, and `average_monthly_hours`.
 ## Business Understanding
 Salifort’s senior leadership team is concerned about how many employees are leaving the company. Salifort strives to create a corporate culture that supports employee success and professional development. Further, the high turnover rate is costly in the financial sense as Salifort makes a big investment in recruiting, training, and upskilling its employees. If Salifort could predict whether an employee will leave the company, and discover the reasons behind their departure, they could better understand the problem and develop a solution.
