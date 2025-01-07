@@ -15,7 +15,7 @@ The fictional company's data is HR_capstone_dataset.csv, which can be found on [
 In this project, logistic regression, decision tree, and random forest models are constructed and compared through 4 metrics: precision, recall, F1 score, accuracy, and ROC AUC. The champion model is the random forest model with tuned hyperparameters. The figure below displays the confusion matrix of the random forest model. The label `0` represents the employee will stay, while the label `1` represents the employee will leave.
 
 <p align="center">
-  <img src="images/Random_forest_confusion_matrix.png">
+  <img width="350" height="350" src="images/Random_forest_confusion_matrix.png">
 </p>
 
 The random forest model is considered the most robust since it predicts significantly fewer false positives and false negatives.
