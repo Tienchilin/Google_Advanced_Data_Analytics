@@ -1,8 +1,8 @@
 # Google Advanced Data Analytics Capstone: Employee Turnover Prediction
 
 Click the following files to see details of this project: 
-[PACE Strategy Document](Course%207%20PACE%20strategy%20document.pdf)
-[Executive Summary](Salifort_Motors_executive_summary.pdf)
+[PACE Strategy Document](Course%207%20PACE%20strategy%20document.pdf), 
+[Executive Summary](Salifort_Motors_executive_summary.pdf), 
 [Project Lab](Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
 
 ## Overview 
