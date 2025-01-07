@@ -19,6 +19,7 @@ In this project, logistic regression, decision tree, and random forest models ar
 </p>
 
 The random forest model is considered the most robust since it predicts significantly fewer false positives and false negatives.
+
 The following figure displays the top 10 feature importances in the random forest model. The five variables `satisfaction_level`, `number_project`, `last_evaluation`, `tenure`, and `average_monthly_hours` are considered the most relevant features in predicting employee turnover.
 
 <p align="center">
