@@ -14,6 +14,8 @@ The fictional company's data is HR_capstone_dataset.csv, which can be found on [
 ## Modeling and Evaluation
 In this project, logistic regression, decision tree, and random forest models are constructed and compared through 4 metrics: precision, recall, F1 score, accuracy, and ROC AUC. The champion model is the random forest model with tuned hyperparameters. The figure below displays the confusion matrix of the random forest model. The label `0` represents the employee will stay, while the label `1` represents the employee will leave.
 ![Confusion Matrix](images/Random_forest_confusion_matrix.png)
+
 The random forest model is considered the most robust since it predicts significantly fewer false positives and false negatives.
 The following figure displays the top 10 feature importances in the random forest model. The five variables `satisfaction_level`, `number_project`, `last_evaluation`, `tenure`, and `average_monthly_hours` are considered the most relevant features in predicting employee turnover.
+
 ![Feature Importances](images/Random_forest_importance_top10.png)
