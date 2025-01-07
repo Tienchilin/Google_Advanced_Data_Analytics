@@ -22,5 +22,5 @@ The random forest model is considered the most robust since it predicts signific
 The following figure displays the top 10 feature importances in the random forest model. The five variables `satisfaction_level`, `number_project`, `last_evaluation`, `tenure`, and `average_monthly_hours` are considered the most relevant features in predicting employee turnover.
 
 <p align="center">
-  <img src="images/Random_forest_importance_top10.png">
+  <img width="460" height="300" src="images/Random_forest_importance_top10.png">
 </p>
