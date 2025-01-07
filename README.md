@@ -3,8 +3,8 @@
 This is the capstone project for __Google Advanced Data Analytics Professional Certificate__. This project aimed to create a predictive model either through multiple logistic regression or through machine learning algorithms such as Decision Trees and Random Forests. This project utilized employee statistics from the fictional company Salifot Motors.
 The best model for this analysis was a random forest model with tuned hyperparameters. The metrics below display the model's success on the testing dataset:
 | Model Name | Precision | Recall | F1 Score | Accuracy | ROC AUC |
-| ---------- | --------- | ------ | -------- | -------- | --- |
-| :Random Forest (cross-validated): | :96.4%: | 92.0% | 94.1% | 98.0% | 95.6% |
+| :----------: | :---------: | ------ | -------- | -------- | --- |
+| Random Forest (cross-validated) | 96.4% | 92.0% | 94.1% | 98.0% | 95.6% |
 
 The most relevant variables in the random forest model are `satisfaction_level`, `number_project`, `last_evaluation`, `tenure`, and `average_monthly_hours`.
 ## Business Understanding
