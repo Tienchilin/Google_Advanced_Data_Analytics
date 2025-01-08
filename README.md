@@ -8,6 +8,8 @@ Click the following files to see detailed results of this project:
 
 [Project Lab](Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
 
+Click [here](Coursera%20YKLFCA0UVHX8.pdf) to view the certificate.
+
 ## :page_facing_up: Overview 
 This is the capstone project for __Google Advanced Data Analytics Professional Certificate__. This project aimed to create a predictive model either through multiple logistic regression or through machine learning algorithms such as Decision Trees and Random Forests. This project utilized employee statistics from the fictional company Salifot Motors.
 The best model for this analysis was a random forest model with tuned hyperparameters. The metrics below display the model's success on the testing dataset:
