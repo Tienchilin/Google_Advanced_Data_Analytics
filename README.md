@@ -1,6 +1,6 @@
 # :rocket: Google Advanced Data Analytics Capstone: Employee Turnover Prediction
 
-Click the following files to see details of this project: 
+Click the following files to see detailed results of this project: 
 
 [PACE Strategy Document](Course%207%20PACE%20strategy%20document.pdf)
 
